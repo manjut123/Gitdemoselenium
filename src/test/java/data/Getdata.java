@@ -31,6 +31,8 @@ public class Getdata {
 		}
 	}
 	
+//utility to read data from json file
+
 	public static List<HashMap<String, String>> getJsonDataToMap() throws IOException
 	{
 		//read json to string
@@ -43,12 +45,6 @@ public class Getdata {
 	  List<HashMap<String, String>> data = mapper.readValue(jsonContent, new TypeReference<List<HashMap<String, String>>>() {
       });
 	  return data;
-	
-	//{map, map}
-	
-	
-	
-	
 	
 	
 	}
