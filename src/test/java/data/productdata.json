@@ -1,0 +1,17 @@
+[
+
+{
+"user":"standard_user",
+"password":"secret_sauce",
+"product1":"Sauce Labs Backpack",
+"product2":"Sauce Labs Fleece Jacket"
+},
+
+{
+"user":"visual_user",
+"password":"secret_sauce",
+"product1":"Sauce Labs Onesie",
+"product2":"Sauce Labs Bolt T-Shirt"
+}
+
+]
